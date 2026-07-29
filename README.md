@@ -148,8 +148,8 @@ The following evidence was not provided and therefore could not be assessed:
 
 ### CONCLUSION
 
-## The log analysis identified several indicators consistent with suspicious activity, including repeated login attempts, administrative interface targeting, HTTP 404 responses, and activity associated with suspicious IP addresses.
-## Based solely on the supplied evidence, these observations indicate potential unauthorized access attempts and web application reconnaissance.
+The log analysis identified several indicators consistent with suspicious activity, including repeated login attempts, administrative interface targeting, HTTP 404 responses, and activity associated with suspicious IP addresses.
+Based solely on the supplied evidence, these observations indicate potential unauthorized access attempts and web application reconnaissance.
 
 
 
