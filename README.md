@@ -1,10 +1,11 @@
 # Log-Analysis
 
 ENTERPRISE LOG ANALYSIS ASSESSMENT REPORT
-Prepared by: Harmony Umoren
-Report Type: Enterprise Log Analysis Assessment
-Case/Incident Number: INC-2026-0703-01
-Date of Analysis: 03 July 2026
+
+## - Prepared by: Harmony Umoren
+## - Report Type: Enterprise Log Analysis Assessment
+## - Case/Incident Number: INC-2026-0703-01
+## - Date of Analysis: 03 July 2026
 
 
 
